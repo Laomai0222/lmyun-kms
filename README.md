@@ -1,5 +1,4 @@
-# LMYUN - KMS ![https://127.lmyun.top](https://img.shields.io/badge/LMYUN-在线-blue) ![](https://img.shields.io/badge/[Beta]Download-v1.2-blue)
-* ###### 一个使用KMS服务器的激活工具
+# LMYUN - KMS
 * ###### 支持激活各种Windows以及office，详细请登录[LMYUN-KMS](https://kms.lmyun.top/)查看
 * ###### ！！需要以管理员权限打开！！
 ### 该项目开始于2020年3月30日
