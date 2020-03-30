@@ -1,8 +1,11 @@
-# LMYUN - KMS
+# LMYUN - KMS ![](https://img.shields.io/badge/Download-v1.0-blue) ![](https://img.shields.io/badge/[Beta]Download-v1.2-blue)
 ###### ——LMYUN系统KMS激活工具
 ### 该项目开始于2020年3月30日
 ##### 稳定版本：v1.0
 ##### 最新测试版本：v1.2[Beta]
+## 安装要求
+* ##### 一台装有需要激活的Windows系统电脑
+* ##### 需要联网连接KMS服务器
 ### 强烈推荐使用LMYUN-KMS服务器进行激活[长期稳定]
 * ###### kms.lmyun.top
 * ###### lmyun.tk
@@ -13,6 +16,7 @@
 * ###### [已宣布长期使用]kms.guowaifuli.com
 * ###### [已宣布长期使用]mhd.kmdns.net
 * ###### [已宣布长期使用]xykz.f3322.org
+* ###### [已宣布长期使用]kms.ddz.red
 * ###### [未说长期有效]106.186.25.239
 * ###### [未说长期有效]110.noip.me
 * ###### [未说长期有效]3rss.vicp.net:20439
@@ -45,7 +49,6 @@
 * ###### [未说长期有效]windows.kms.app
 * ###### [未说长期有效]kms.zhuxiaole.org
 * ###### [未说长期有效]kms.mogeko.me
-* ###### [未说长期有效]kms.ddz.red
 * ###### [未说长期有效]key.17108.com
 * ###### [未说长期有效]222.184.9.98
 * ###### [未说长期有效]www.shuaiguoer.com
