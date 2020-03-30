@@ -39,9 +39,8 @@
 
 > #### 无法激活Windows或office
 > * ###### 请检查系统版本或office版本，前往[LMYUN-KMS](https://kms.lmyun.top/)查看是否支持此版本
-## Support - 支持
+## Support
 
-### 联系
 
 > * ###### QQ：381003647
 > * ###### Mail：laomai0222@lmyun.top或381003647@qq.com
