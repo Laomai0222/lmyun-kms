@@ -46,7 +46,7 @@
 > * ###### QQ：381003647
 > * ###### Mail：laomai0222@lmyun.top或381003647@qq.com
 
-## Authors and acknowledgment - 贡献者和感谢
+## 感谢
 
 * ###### 感谢所有在网络上提供KMS服务器的站长
 
