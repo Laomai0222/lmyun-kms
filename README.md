@@ -1,5 +1,7 @@
 # LMYUN - KMS ![](https://img.shields.io/badge/Download-v1.0-blue) ![](https://img.shields.io/badge/[Beta]Download-v1.2-blue)
-###### ——LMYUN系统KMS激活工具
+* ###### 一个使用KMS服务器的激活工具
+* ###### 支持激活各种Windows以及office，详细请登录[LMYUN-KMS](https://kms.lmyun.top/)查看
+* ###### ！！需要以管理员权限打开！！
 ### 该项目开始于2020年3月30日
 ##### 稳定版本：v1.0
 ##### 最新测试版本：v1.2[Beta]
