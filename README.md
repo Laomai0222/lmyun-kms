@@ -1,72 +1,64 @@
 # LMYUN - KMS
-* ###### 支持激活各种Windows以及office，详细请登录[LMYUN-KMS](https://kms.lmyun.top/)查看
-* ###### ！！需要以管理员权限打开！！
-### 该项目开始于2020年3月30日
-##### 稳定版本：v1.0
-##### 最新测试版本：v1.2[Beta]
-## 安装要求
-* ##### 一台装有需要激活的Windows系统电脑
+
+## Introduction - 介绍
+
+* ##### LMYUN-KMS是一款系统软件激活工具，主要使用KMS服务器对Windows和office进行许可认证，解锁更多高级功能
+
+## Requirements - 必要条件
+
 * ##### 需要联网连接KMS服务器
-### 强烈推荐使用LMYUN-KMS服务器进行激活[长期稳定]
-* ###### kms.lmyun.top
-* ###### lmyun.tk
-* ###### lmkms.tk
-### 其他可用KMS服务器列表
-* ###### [非常推荐]kms.03k.org
-* ###### [已宣布长期使用]54.223.212.31
-* ###### [已宣布长期使用]kms.guowaifuli.com
-* ###### [已宣布长期使用]mhd.kmdns.net
-* ###### [已宣布长期使用]xykz.f3322.org
-* ###### [已宣布长期使用]kms.ddz.red
-* ###### [未说长期有效]106.186.25.239
-* ###### [未说长期有效]110.noip.me
-* ###### [未说长期有效]3rss.vicp.net:20439
-* ###### [未说长期有效]45.78.3.223
-* ###### [未说长期有效]kms.chinancce.com
-* ###### [未说长期有效]kms.didichuxing.com
-* ###### [未说长期有效]skms.ddns.net
-* ###### [未说长期有效]zh.us.to
-* ###### [未说长期有效]franklv.ddns.net
-* ###### [未说长期有效]k.zpale.com
-* ###### [未说长期有效]m.zpale.com
-* ###### [未说长期有效]mvg.zpale.com
-* ###### [未说长期有效]kms.chinancce.com
-* ###### [未说长期有效]kms.lotro.cc
-* ###### [未说长期有效]cy2617.jios.org
-* ###### [未说长期有效]kms.luody.info
-* ###### [未说长期有效]kms.cangshui.net
-* ###### [未说长期有效]zh.us.to
-* ###### [未说长期有效]kms.library.hk
-* ###### [未说长期有效]xykz.f3322.org
-* ###### [未说长期有效]kms.binye.xyz
-* ###### [未说长期有效]kms.tttal.com
-* ###### [未说长期有效]kms.v0v.bid
-* ###### [未说长期有效]kms.moeclub.org
-* ###### [未说长期有效]amrice.top
-* ###### [未说长期有效]kms.lolico.moe
-* ###### [未说长期有效]kms8.MSGuides.com
-* ###### [未说长期有效]kms9.MSGuides.com
-* ###### [未说长期有效]kms.cz9.cn
-* ###### [未说长期有效]windows.kms.app
-* ###### [未说长期有效]kms.zhuxiaole.org
-* ###### [未说长期有效]kms.mogeko.me
-* ###### [未说长期有效]key.17108.com
-* ###### [未说长期有效]222.184.9.98
-* ###### [未说长期有效]www.shuaiguoer.com
-* ###### [未说长期有效]act.liumengxiao.cn
-* ###### [未说长期有效]kms.51it.wang
-* ###### [未说长期有效]kms.iaini.net
-* ###### [未说长期有效]shinyashimokawa.space
-* ###### [未说长期有效]kms.loacg.com
-* ###### [未说长期有效]kms.ijio.net
-* ###### [未说长期有效]kms.fingertc.com
-* ###### [未说长期有效]kms.magrco.net
-* ###### [未说长期有效]nb.shenqw.win
-* ###### [未说长期有效]kms.cin.ink
-* ###### [未说长期有效]kms.ymgblog.com
-* ###### [未说长期有效]kms.srv.crsoo.com
-* ###### [未说长期有效]kms.myds.cloud
-* ###### [未说长期有效]kms.magicwall.org
-* ###### [未说长期有效]cosmiccat.net
-* ###### [未说长期有效]kms.ddddg.cn
-* ###### [未说长期有效]kms.izetn.cn
+
+## Installation - 安装
+
+* ###### 下载打包过后的ZIP文件之后解压，在压缩包内有.exe可执行文件，双击或回车打开即可
+
+## Usage - 用法
+
+* ###### 进入后会先检测与服务器的连接，若无法连接，则退出
+* ###### 进入首页后，可输入命令进行操作
+* ##### 常用命令：
+* ###### Auto (先激活Windows，再激活office)
+* ###### AWin (只激活Windows)                                       
+* ###### AO (只激活office)                                          
+* ###### Set (设置KMS服务器)                                          
+* ###### List (列出参考的KMS服务器列表)                                        
+
+
+## Development - 开发
+
+关于怎样开发的文档信息。（API 等。），需求文档的地址是什么？产品原型的地址是什么？有与其它公司对接时，暴露接口的说明文档地址什么？
+
+## Changelog - 更新日志
+
+## v1.2测试版更新内容
+* ###### 添加了设置，可自定义服务器地址
+* ###### 添加了图标
+## v1.0稳定版内容
+* ###### [基本功能]使用KMS激活计算机上的Windows系统和office办公软件
+
+## FAQ - 常见问题
+
+#### 打开后闪退
+* ###### 无法连接KMS服务器会自动退出，请检测网络连接，可以尝试ping服务器
+'''
+ping kms.lmyun.top
+'''
+###### 若无法ping通，可以尝试使用网络代理后再ping
+
+#### 无法激活Windows或office
+* ###### 请检查系统版本或office版本，前往[LMYUN-KMS](https://kms.lmyun.top/)查看是否支持次版本
+## Support - 支持
+
+### Contact - 联系
+
+* ###### QQ：381003647
+* ###### Mail：laomai0222@lmyun.top或381003647@qq.com
+
+## Authors and acknowledgment - 贡献者和感谢
+
+* ###### 感谢所有在网络上提供KMS服务器的站长
+
+## License - 版权信息
+
+* ###### 2019-2020 © LMYUN. All rights reserved
+此项目仅允许免费使用、转载，不得用于商业目的，转载请注明本仓库地址，严禁用于违法用途
